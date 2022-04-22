@@ -1,1 +1,1 @@
-# SimpleFPS
+# SimpleShooter
